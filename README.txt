@@ -1,0 +1,1 @@
+Este es una interfaz de un prototipo no necesario que difiere de la INTERFAZ actual
